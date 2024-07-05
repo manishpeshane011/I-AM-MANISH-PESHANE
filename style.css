@@ -860,27 +860,4 @@ span {
         width: 100%;
     }
 
-    .footer {
-        flex-direction: column-reverse;
-    }
-
-    .footer p {
-        text-align: center;
-        margin-top: 2rem;
-    }
-}
-
-@media (max-width: 365px) {
-    .about-img img {
-        width: 90vw;
-    }
-}
-
-@media (max-width: 315px) {
-    .home-content h1 {
-        font-size: 4.5rem;
-    }
-}
-img {
-    border-radius: 20px;
-}
+  
